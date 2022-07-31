@@ -1,0 +1,70 @@
+.container1{
+    width: 100vw;
+    height: 100vh;
+    background-color: #E7E8D1;
+    background-size: cover;
+
+}
+.W1{
+    font-size: 100px;
+    font-weight: bolder;
+    font-style:Arial;
+}
+.W2{
+    font-size: 50px;
+}
+.card2{
+    width: 40vw;
+    height: 60vh;
+    background-color:#A7BEAE ;
+    background-size: cover;
+    border: 1px #A7BEAE solid;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 5px  #E7E8D1;
+}
+.H{
+    padding-top: 50px;
+    text-align: center;    
+    font-family: Arial, sans-serif
+}
+input{
+    padding :15px;
+    border-radius: 10px;
+    float: left;
+}
+input::placeholder {
+    font: 25px sans-serif;
+}
+h2{
+   padding-top: 20px;
+    padding-left: 50px;
+}
+.btn1{
+    margin-left:50px;
+    margin-top:20px ;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: #E7E8D1;
+}
+.f{
+    font-size:45px;
+    font-weight: bold;
+    font-style: italic
+}
+h3{
+    padding-top: 20px;
+}
+hr.hr1{
+    border-top: 5px solid #070707;
+}
+hr.hr2{
+    border-top: 2px solid #070707;
+    width: 800px;
+}
+.f3{
+    font-size:80px;
+    font-weight: bold;
+    font-style: italic;
+}
